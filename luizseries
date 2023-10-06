@@ -8,6 +8,17 @@
 
 SEMANAL
 
+#################################### TWISTED METAL ###########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89bTbCQ.jpg" group-title="Twisted Metal",1X1T
+https://www.dropbox.com/scl/fi/m0b4z08hzlh56lkllx684/TwistedMetal1.mp4?rlkey=3ndejczmf37xycjipcu1vug4t&dl=1
+
+############################################ LOKI ##################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QfxuRyM.jpg" group-title="Loki",1x2T
+https://www.dropbox.com/scl/fi/czcu9xic13211ny928axj/LokiS201.mp4?rlkey=tyafk1roqo4fq721o5an5l7w9&dl=1
+
+
 ################################### FIRE COUNTRY ################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IClR6SF.jpg" group-title="Fire Country",1x1T
@@ -17,22 +28,6 @@ https://www.dropbox.com/scl/fi/mels7rmgw268wb38vabu5/FireCountry2.mp4?rlkey=eegu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IClR6SF.jpg" group-title="Fire Country",3X1T
 https://www.dropbox.com/scl/fi/a87sirtxvdn2fr4yy8o4a/FireCountry3.mp4?rlkey=3yd4lsxj7h269ntywhluovh3m&dl=1
 
-################################## THE GOOD DOCTOR ###############################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",1X6T
-https://www.dropbox.com/scl/fi/zds774qccyxrf6lqujb2f/TheGoodDoctor601.mp4?rlkey=41crck007qgza5mmxk8fmod4y&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",2X6T
-https://www.dropbox.com/scl/fi/6m5iknmlqtqw8se166fnq/TheGoodDoctor602.mp4?rlkey=gqb1qiq43gldlntq08fwqwkjp&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",3X6T
-https://www.dropbox.com/scl/fi/fovmb446pe7zdypi1mu5t/TheGoodDoctor603.mp4?rlkey=5t2zfmpens5avsyscwbwmlhtq&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",4X6T
-https://www.dropbox.com/scl/fi/mwobkyplvbxya7zrwrb6z/TheGoodDoctor604.mp4?rlkey=6p67nvkobm3josgkswhcjmo6p&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",5X6T
-https://www.dropbox.com/scl/fi/5lvrsz3mhl0yyjrk4k5qm/TheGoodDoctor605.mp4?rlkey=e2xf9m808hx0zspe9fquwpfbb&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",6X6T
-https://www.dropbox.com/scl/fi/i41v3sd8d9amx1l7cwmxp/TheGoodDoctor606.mp4?rlkey=12k3knng7etfw8uc29s40jjnj&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",7X6T
-https://www.dropbox.com/scl/fi/ybkop5vz8a9ymga5jrtuh/TheGoodDoctor607.mp4?rlkey=n4jmum39d1juwabqoxz7wyirr&dl=1
 
 ####################################### AINDA ACORDADOS ###################################################
 
@@ -44,14 +39,10 @@ https://www.dropbox.com/scl/fi/uv82p9cn63kfsdn5ekpuu/StillUp2.mp4?rlkey=7inqj3fn
 https://www.dropbox.com/scl/fi/ld9qggc9y80tnoilm6zf4/StillUp3.mp4?rlkey=f2xaieoznibrxdclafd9bhh3m&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdafVPH.jpg" group-title="Ainda Acordados",4X1T
 https://www.dropbox.com/scl/fi/3s0ytipfczcow4iwhkmjd/StillUp4.mp4?rlkey=7qoeh8xfbqco4ofqcltuy63ys&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdafVPH.jpg" group-title="Ainda Acordados",5X1T
+https://www.dropbox.com/scl/fi/awz72kyrwgc6wu8z6vkm4/StillUp5.mp4?rlkey=l8m28p0eirp3gc9mxwiwphilk&dl=1
 
 
-################################ O CONTINENTAL ###################################################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0CzJOh.jpg" group-title="O Continental",1X1T
-https://www.dropbox.com/scl/fi/y02nan0pwl6hx1ocsye2t/OContinental1.mp4?rlkey=j2fsdg6jvtmjqht11qq4ut714&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0CzJOh.jpg" group-title="O Continental",2X1T
-https://www.dropbox.com/scl/fi/ugsdywdw8o1a47ajgyhkb/OContinental2.mp4?rlkey=4obef6biirmrffeo7gujehucl&dl=1
 
 ############################################ GEN V ###################################################################
 
@@ -61,6 +52,8 @@ https://www.dropbox.com/scl/fi/w0og78xpv9liwfyolf6rj/GenV1.mp4?rlkey=luhh9jpk9gv
 https://www.dropbox.com/scl/fi/sxqcgctvnkzu4emxlh4wd/GenV2.mp4?rlkey=ztfn8n2gegbz29kygfdfi5la2&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBUIMFO.jpg" group-title="Gen V",3X1T
 https://www.dropbox.com/scl/fi/i74u4n2btqrd2dyxj5kba/GenV3.mp4?rlkey=7bnrihqustssi3y1szyp6asiw&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBUIMFO.jpg" group-title="Gen V",4X1T
+https://www.dropbox.com/scl/fi/eosx40w24fe7mmxxy44un/GenV4.mp4?rlkey=esxxj8iunycwxie1xz6z807u5&dl=1
 
 
 ##################################  A RODA DO TEMPO ################################################
@@ -81,6 +74,8 @@ https://www.dropbox.com/scl/fi/qeja7x34hfe9frtffnywk/ARodadoTempo2T5.mp4?rlkey=6
 https://www.dropbox.com/scl/fi/1p2kjiqxbl9hx39zpzl56/ARodadoTempo2T6.mp4?rlkey=n2t5cn38pn5alibp7jqq4x5p1&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoBkL01.jpg" group-title="A Roda do Tempo",7X2T
 https://www.dropbox.com/scl/fi/ilq79drt2es411irqpcjj/ARodadoTempo2T7.mp4?rlkey=ub7m1xfge159hqhfowcpxwa06&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoBkL01.jpg" group-title="A Roda do Tempo",8X2T
+https://www.dropbox.com/scl/fi/pft80xqwi70ebju98jzf1/ARodadoTempo2T8.mp4?rlkey=fjwmnwmq70u3fc3irhy49lwv0&dl=1
 
 
 ####################################### FEAR THE WALKING DEAD #######################################
@@ -280,6 +275,24 @@ https://www.dropbox.com/scl/fi/hnj0g5muk4zp50aw4d0o2/JusticaVerdadeira12.mp4?rlk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0htD3Ka.jpg" group-title="Justica Implacavel" pltv-subgroup="1 TEMPORADA",13X1T
 https://www.dropbox.com/scl/fi/ai3a6leh6vlentsv2xlzi/JusticaVerdadeira13.mp4?rlkey=sia1mynqvjyj4rl9okkmertte&dl=1
 
+############################# LUPIN #################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",1X3T
+https://www.dropbox.com/scl/fi/97asyryv3yiwc8a1tmwze/Lupin301.mp4?rlkey=0zw63dzb3b2matdj9d11iet04&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",2X3T
+https://www.dropbox.com/scl/fi/ndh77crys5ez5563pnyn2/Lupin302.mp4?rlkey=4luqadmdbbrletd4t9ttvnyd4&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",3X3T
+https://www.dropbox.com/scl/fi/bo9899vu65naov3gto4av/Lupin303.mp4?rlkey=plpnch8exsue0lxxcvwjd85so&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",4X3T
+https://www.dropbox.com/scl/fi/ul2f9j9c4jqljeue9qcyg/Lupin304.mp4?rlkey=8ua7o5ihm2x7zff68nfwak9p9&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",5X3T
+https://www.dropbox.com/scl/fi/7a4w2nhbhpcchc7yo78hx/Lupin305.mp4?rlkey=j0kerwkpv3jbsrtz1m4nh2ynw&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",6X3T
+https://www.dropbox.com/scl/fi/be1efbcfum4rhb1cm9g3p/Lupin306.mp4?rlkey=rsbv7ynabllff7zb1tkancl8y&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFsSiNx.jpg" group-title="Lupin" pltv-subgroup="3 Temporada",7X3T
+https://www.dropbox.com/scl/fi/gdx167lmuhfxmkva89wed/Lupin307.mp4?rlkey=9zo1st4d0t6g2ate629hj3lq2&dl=1
+
+
 
 ########################################### OPERAÇAO LIONESS ##################################################
 
@@ -314,6 +327,16 @@ https://www.dropbox.com/scl/fi/v6n3tmrh3ni6yk0cbk8l6/Oouro4.mp4?rlkey=inupj8f2nc
 https://www.dropbox.com/scl/fi/28c7noz23qb5ux70j7lc5/Oouro6.mp4?rlkey=bmk33p3o6cux3wzpihn8s6w0q&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32cmWTE.jpg" group-title="O Ouro",6X1T
 https://www.dropbox.com/scl/fi/28c7noz23qb5ux70j7lc5/Oouro6.mp4?rlkey=bmk33p3o6cux3wzpihn8s6w0q&dl=1
+
+################################ O CONTINENTAL ###################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0CzJOh.jpg" group-title="O Continental",1X1T
+https://www.dropbox.com/scl/fi/y02nan0pwl6hx1ocsye2t/OContinental1.mp4?rlkey=j2fsdg6jvtmjqht11qq4ut714&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0CzJOh.jpg" group-title="O Continental",2X1T
+https://www.dropbox.com/scl/fi/ugsdywdw8o1a47ajgyhkb/OContinental2.mp4?rlkey=4obef6biirmrffeo7gujehucl&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0CzJOh.jpg" group-title="O Continental",3X1T
+https://www.dropbox.com/scl/fi/eay3a7aqga3eghkis9xnk/OContinental3.mp4?rlkey=dj7nvv7lcgksd4gvqtskxp8ug&dl=1
+
 
 
 ########################################## QUEM E ERIN CARTER #######################################################
@@ -432,6 +455,53 @@ https://www.dropbox.com/scl/fi/0dguf54205bqisbm9kiq0/SongoftheBandits7.mp4?rlkey
 https://www.dropbox.com/scl/fi/wj09k3anghy0khhqtet6t/SongoftheBandits8.mp4?rlkey=k8t904yh1brw6dw5ih0g89o3x&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSwJvBl.jpg" group-title="Song of The Bandits",9X1T
 https://www.dropbox.com/scl/fi/6rmi9bjolofln1y35xavu/SongoftheBandits9.mp4?rlkey=79jmttdaeewcxu3rsl0bjaiev&dl=1
+
+################################## THE GOOD DOCTOR ###############################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",1X6T
+https://www.dropbox.com/scl/fi/zds774qccyxrf6lqujb2f/TheGoodDoctor601.mp4?rlkey=41crck007qgza5mmxk8fmod4y&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",2X6T
+https://www.dropbox.com/scl/fi/6m5iknmlqtqw8se166fnq/TheGoodDoctor602.mp4?rlkey=gqb1qiq43gldlntq08fwqwkjp&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",3X6T
+https://www.dropbox.com/scl/fi/fovmb446pe7zdypi1mu5t/TheGoodDoctor603.mp4?rlkey=5t2zfmpens5avsyscwbwmlhtq&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",4X6T
+https://www.dropbox.com/scl/fi/mwobkyplvbxya7zrwrb6z/TheGoodDoctor604.mp4?rlkey=6p67nvkobm3josgkswhcjmo6p&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",5X6T
+https://www.dropbox.com/scl/fi/5lvrsz3mhl0yyjrk4k5qm/TheGoodDoctor605.mp4?rlkey=e2xf9m808hx0zspe9fquwpfbb&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",6X6T
+https://www.dropbox.com/scl/fi/i41v3sd8d9amx1l7cwmxp/TheGoodDoctor606.mp4?rlkey=12k3knng7etfw8uc29s40jjnj&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",7X6T
+https://www.dropbox.com/scl/fi/ybkop5vz8a9ymga5jrtuh/TheGoodDoctor607.mp4?rlkey=n4jmum39d1juwabqoxz7wyirr&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",8X6T
+https://www.dropbox.com/scl/fi/rjkzl3vp045hcnrh97x90/TheGoodDoctor608.mp4?rlkey=tvntdrr4ku3sgokpn7ri8crld&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",9X6T
+https://www.dropbox.com/scl/fi/opslmyiiej8gjjlukd6wm/TheGoodDoctor609.mp4?rlkey=jve3w0tn2sxv143vbff5efp1y&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",10X6T
+https://www.dropbox.com/scl/fi/bjiuwuv7sult5h4j3eqau/TheGoodDoctor610.mp4?rlkey=7btfr28c6z6s0qcjfhihy7yz7&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",11X6T
+https://www.dropbox.com/scl/fi/ebe0l2mxvofwzqn0lacpy/TheGoodDoctor611.mp4?rlkey=vqxvh87ll5roredjt33vqazbt&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",12X6T
+https://www.dropbox.com/scl/fi/ryecmklfmezsn52qslred/TheGoodDoctor612.mp4?rlkey=zvvi2i65ci44zwa05076grqk0&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",13X6T
+https://www.dropbox.com/scl/fi/vdrslqadpd1ztfx99lurf/TheGoodDoctor613.mp4?rlkey=1j0jzvyceooha8tfngiuf5emd&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",14X6T
+https://www.dropbox.com/scl/fi/sue5rgjlymb7c2crh74o0/TheGoodDoctor614.mp4?rlkey=xzia1whdeltt360vpcwqsyds4&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",15X6T
+https://www.dropbox.com/scl/fi/hfdcz8ik13ncj9kiz2oiy/TheGoodDoctor615.mp4?rlkey=r5ti5bq8a8kx5dfj442oi2x7e&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",16X6T
+https://www.dropbox.com/scl/fi/hsu77j9kasxlmn0taw94s/TheGoodDoctor616.mp4?rlkey=dmgde5bbb5p58n3kq78va2dxj&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",17X6T
+https://www.dropbox.com/scl/fi/0o9u5kb5c7tpplz93os11/TheGoodDoctor617.mp4?rlkey=fx7f3gzvfs0c7s6yf2jj9d7jh&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",18X6T
+https://www.dropbox.com/scl/fi/nhhakqyg1snf4jfqv6dlm/TheGoodDoctor618.mp4?rlkey=stbg87jj8blygrkwzlg487trd&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",19X6T
+https://www.dropbox.com/scl/fi/igfaobbdaivycnj7635aj/TheGoodDoctor619.mp4?rlkey=ogw8b99v6eq5qwmyzu03d32j5&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",20X6T
+https://www.dropbox.com/scl/fi/xwnasnv5t68u04t9wjf8w/TheGoodDoctor620.mp4?rlkey=rv2wagyw67jr46pyxmrlc9zpj&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",21X6T
+https://www.dropbox.com/scl/fi/gghcb54fzayxlj5ed0qvw/TheGoodDoctor621.mp4?rlkey=ld30scf4oplq6wamrz3djuev1&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkPetL3.jpg" group-title="The Good Doctor" pltv-subgroup="6 Temporada",22X6T
+https://www.dropbox.com/scl/fi/4q1mgn49s792xa4af1r84/TheGoodDoctor622.mp4?rlkey=ouc5sswonn6350wxn3xif4jix&dl=1
 
 
 
